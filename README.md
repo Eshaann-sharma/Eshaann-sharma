@@ -2,7 +2,7 @@
 
 👾 18 Years Old
 
-😶‍🌫️ B.Tech Student at Srm Institute, KTR
+😶‍🌫️ B.Tech Student at SRM University, KTR
 
 🤠 Location: India
 
