@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Eshaann-sharma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Heyy , I'm Eshaan
 
-<!---
-Eshaann-sharma/Eshaann-sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👾 18 Years Old
+
+😶‍🌫️ B.Tech Student at Srm University
+
+🤠 Location: India
+
+🤓Programming Languages: Python
+
+
+
+
+
+![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/77952783/190132966-61a57cda-ecd0-45d5-bec6-40c9b5a13626.png)
