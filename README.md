@@ -1,7 +1,7 @@
 # Heyy , I'm Eshaan
 
-- 18 Years Old
-- B.Tech Student at SRM University, KTR
+- 19 Years Old
+- B.Tech Student at SRM University, KTR ( 2026 Batch )
 - Location: India
 - Programming Languages: Python , Swift , C/C++ , MySQl
 
