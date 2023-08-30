@@ -1,7 +1,9 @@
 # Heyy , I'm Eshaan
 B.Tech Student at SRM University, KTR ( 2026 Batch )
-Location: India
+
 Programming Languages: Python , Swift , C/C++ , MySQl
+
+Location: India
 
 Currently learning Native iOS app development using SwiftUI
 
