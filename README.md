@@ -1,7 +1,7 @@
 # Heyy , I'm Eshaan
 B.Tech Student at SRM University, KTR ( 2026 Batch )
 
-Programming Languages: Python , Swift , C/C++ , MySQl
+Programming Languages: Python , Swift , C/C++ , MySQl , Html/CSS
 
 Location: India
 
